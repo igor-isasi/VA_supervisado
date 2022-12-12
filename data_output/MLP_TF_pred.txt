@@ -1,0 +1,1563 @@
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Other Cardiovascular Diseases | Real: Neoplasms 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Neoplasms | Real: Other Non-communicable Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the circulatory system | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Neoplasms | Real: Other Non-communicable Diseases 
+Predicción: Diseases of Respiratory System | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: Neoplasms | Real: Other Cardiovascular Diseases 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Birth asphyxia 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Certain infectious and Parasitic Diseases | Real: Diseases of the circulatory system 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Certain infectious and Parasitic Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Other Cardiovascular Diseases | Real: Diseases of the Genitourinary System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Neoplasms | Real: Diseases of Respiratory System 
+Predicción: Other Defined Causes of Child Deaths | Real: Other Defined Causes of Child Deaths 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of the circulatory system | Real: Injury, Poisoning and External Causes 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Certain infectious and Parasitic Diseases | Real: Diseases of the Digestive System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Other Non-communicable Diseases | Real: Diseases of the circulatory system 
+Predicción: Diseases of the circulatory system | Real: Certain infectious and Parasitic Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Cardiovascular Diseases | Real: Other Infectious Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Certain infectious and Parasitic Diseases | Real: Diseases of Respiratory System 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Birth asphyxia 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Certain infectious and Parasitic Diseases | Real: Other Non-communicable Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Diseases of Respiratory System | Real: Hemorrhagic fever 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the circulatory system | Real: Diseases of Respiratory System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of Respiratory System | Real: Other Infectious Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Congenital malformation 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Birth asphyxia 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Other Cardiovascular Diseases | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Congenital malformation | Real: Birth asphyxia 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Congenital malformation | Real: Congenital malformation 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Other Cardiovascular Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Diseases of the circulatory system | Real: Diseases of Respiratory System 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Other Defined Causes of Child Deaths | Real: Other Defined Causes of Child Deaths 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Congenital malformation 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Non-communicable Diseases | Real: Diseases of the circulatory system 
+Predicción: Congenital malformation | Real: Congenital malformation 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of Respiratory System | Real: Diseases of the circulatory system 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Congenital malformation | Real: Congenital malformation 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Birth asphyxia | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: External Causes of Morbidity and Mortality | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Certain infectious and Parasitic Diseases | Real: Hemorrhagic fever 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Other Cardiovascular Diseases | Real: Neoplasms 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: Injury, Poisoning and External Causes 
+Predicción: Diseases of Respiratory System | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Certain infectious and Parasitic Diseases | Real: Other Non-communicable Diseases 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Injury, Poisoning and External Causes 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Diseases of Respiratory System | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Certain infectious and Parasitic Diseases | Real: Diseases of Respiratory System 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of Respiratory System | Real: Diseases of the circulatory system 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of Respiratory System | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Diseases of the Digestive System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: External Causes of Morbidity and Mortality 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Diseases of the circulatory system | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: Birth asphyxia | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Diseases of the circulatory system 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Birth asphyxia 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Other Non-communicable Diseases 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Certain infectious and Parasitic Diseases | Real: External Causes of Morbidity and Mortality 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of Respiratory System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Congenital malformation | Real: Congenital malformation 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of Respiratory System | Real: Certain infectious and Parasitic Diseases 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Diseases of Respiratory System | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of Respiratory System | Real: Other Cardiovascular Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of Respiratory System | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Congenital malformation | Real: Congenital malformation 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: External Causes of Morbidity and Mortality | Real: Injury, Poisoning and External Causes 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Diseases of the Digestive System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the circulatory system | Real: Other Cardiovascular Diseases 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Diseases of the Nervous System | Real: Diseases of the Nervous System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Hemorrhagic fever | Real: Hemorrhagic fever 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Congenital malformation | Real: Congenital malformation 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Non-communicable Diseases | Real: Neoplasms 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the circulatory system | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Diseases of Respiratory System 
+Predicción: Diseases of the circulatory system | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Congenital malformation | Real: Congenital malformation 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Diseases of the Genitourinary System 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Non-communicable Diseases | Real: Diseases of Respiratory System 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Diseases of the circulatory system | Real: Other Infectious Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Birth asphyxia 
+Predicción: Other Non-communicable Diseases | Real: Diseases of Respiratory System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of the circulatory system 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of the Genitourinary System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of Respiratory System | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Certain infectious and Parasitic Diseases | Real: Diseases of Respiratory System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of the circulatory system 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Other Cardiovascular Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Other Non-communicable Diseases 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Other Defined Causes of Child Deaths 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Congenital malformation | Real: Congenital malformation 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Birth asphyxia | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of Respiratory System | Real: Neoplasms 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Other Cardiovascular Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of Respiratory System | Real: Certain infectious and Parasitic Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Diseases of the circulatory system | Real: External Causes of Morbidity and Mortality 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of Respiratory System 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Non-communicable Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Congenital malformation | Real: Congenital malformation 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: Diseases of the Digestive System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the Genitourinary System | Real: Other Infectious Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: External Causes of Morbidity and Mortality 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Certain infectious and Parasitic Diseases | Real: Diseases of the Nervous System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Other Non-communicable Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Certain infectious and Parasitic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: Other Non-communicable Diseases | Real: Diseases of the Genitourinary System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Other Defined Causes of Child Deaths | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Other Defined Causes of Child Deaths | Real: Other Defined Causes of Child Deaths 
+Predicción: Congenital malformation | Real: Congenital malformation 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Certain infectious and Parasitic Diseases | Real: External Causes of Morbidity and Mortality 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Defined Causes of Child Deaths | Real: Other Defined Causes of Child Deaths 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Diseases of Respiratory System | Real: Other Non-communicable Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of Respiratory System | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Diseases of the Digestive System | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Diseases of Respiratory System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: External Causes of Morbidity and Mortality | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Congenital malformation | Real: Congenital malformation 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Other Cardiovascular Diseases | Real: Diseases of Respiratory System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the circulatory system | Real: Other Infectious Diseases 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Other Defined Causes of Child Deaths | Real: Diseases of Respiratory System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Diseases of Respiratory System 
+Predicción: Neoplasms | Real: Other Non-communicable Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Birth asphyxia 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Other Infectious Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: External Causes of Morbidity and Mortality | Real: Diseases of Respiratory System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: External Causes of Morbidity and Mortality | Real: Injury, Poisoning and External Causes 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of the Digestive System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Other Non-communicable Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the circulatory system | Real: Neoplasms 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Other Cardiovascular Diseases | Real: Diseases of the Genitourinary System 
+Predicción: Diseases of the Genitourinary System | Real: Other Cardiovascular Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of the circulatory system 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Other Infectious Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Certain infectious and Parasitic Diseases | Real: Diseases of the Nervous System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Congenital malformation 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Diseases of the circulatory system | Real: External Causes of Morbidity and Mortality 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of the Genitourinary System | Real: Neoplasms 
+Predicción: External Causes of Morbidity and Mortality | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Certain infectious and Parasitic Diseases | Real: Diseases of the Genitourinary System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Neoplasms | Real: Diseases of Respiratory System 
+Predicción: Other Non-communicable Diseases | Real: Diseases of the Genitourinary System 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the circulatory system | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Certain infectious and Parasitic Diseases | Real: Congenital malformation 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Non-communicable Diseases | Real: Diseases of Respiratory System 
+Predicción: Birth asphyxia | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of the circulatory system | Real: Diseases of the Genitourinary System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Infectious Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Other Defined Causes of Child Deaths | Real: Other Defined Causes of Child Deaths 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Congenital malformation | Real: Other Defined Causes of Child Deaths 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Diseases of the circulatory system | Real: Injury, Poisoning and External Causes 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Certain infectious and Parasitic Diseases | Real: Diseases of Respiratory System 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Congenital malformation | Real: Congenital malformation 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of Respiratory System | Real: Diseases of the Genitourinary System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Neoplasms | Real: Diseases of the circulatory system 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Other Non-communicable Diseases | Real: Diseases of the circulatory system 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Congenital malformation | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Congenital malformation | Real: Congenital malformation 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of the Genitourinary System | Real: Other Infectious Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Other Infectious Diseases | Real: External Causes of Morbidity and Mortality 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Other Non-communicable Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: Other Infectious Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Certain infectious and Parasitic Diseases 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Neoplasms | Real: Diseases of the Digestive System 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the circulatory system | Real: Diseases of Respiratory System 
+Predicción: Other Non-communicable Diseases | Real: Diseases of the Genitourinary System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Diseases of the Nervous System | Real: Diseases of the Nervous System 
+Predicción: Diseases of the circulatory system | Real: Neoplasms 
+Predicción: Congenital malformation | Real: Congenital malformation 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Birth asphyxia 
+Predicción: Diseases of Respiratory System | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Congenital malformation | Real: Congenital malformation 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Diseases of Respiratory System | Real: Other Non-communicable Diseases 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: External Causes of Morbidity and Mortality | Real: Diseases of the Digestive System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of the circulatory system 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Neoplasms | Real: Other Non-communicable Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Other Cardiovascular Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: Injury, Poisoning and External Causes 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Congenital malformation | Real: Congenital malformation 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Neoplasms | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of the circulatory system | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Birth asphyxia 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Neoplasms | Real: Diseases of Respiratory System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of the circulatory system | Real: External Causes of Morbidity and Mortality 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Diseases of Respiratory System 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Neoplasms | Real: Other Non-communicable Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Injury, Poisoning and External Causes | Real: Other Non-communicable Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Other Defined Causes of Child Deaths | Real: Other Defined Causes of Child Deaths 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: External Causes of Morbidity and Mortality | Real: Diseases of the circulatory system 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Diseases of the circulatory system 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Certain infectious and Parasitic Diseases | Real: Diseases of the Nervous System 
+Predicción: Diseases of the circulatory system | Real: Diseases of Respiratory System 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of Respiratory System | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Other Infectious Diseases | Real: Diseases of Respiratory System 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of the Digestive System | Real: Other Non-communicable Diseases 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Diseases of the Genitourinary System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Diseases of the Digestive System 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Other Defined Causes of Child Deaths | Real: Other Defined Causes of Child Deaths 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Defined Causes of Child Deaths | Real: Other Defined Causes of Child Deaths 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Diseases of the Genitourinary System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Congenital malformation 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Cardiovascular Diseases | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Other Defined Causes of Child Deaths | Real: Other Defined Causes of Child Deaths 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Other Defined Causes of Child Deaths | Real: Other Defined Causes of Child Deaths 
+Predicción: External Causes of Morbidity and Mortality | Real: Diseases of the circulatory system 
+Predicción: Certain infectious and Parasitic Diseases | Real: Diseases of the Genitourinary System 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: Other Cardiovascular Diseases | Real: Diseases of the circulatory system 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Neoplasms | Real: Diseases of Respiratory System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of Respiratory System | Real: Certain infectious and Parasitic Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Other Non-communicable Diseases | Real: Diseases of the circulatory system 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the Genitourinary System | Real: Other Cardiovascular Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Certain infectious and Parasitic Diseases | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Defined Causes of Child Deaths | Real: Other Defined Causes of Child Deaths 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Certain infectious and Parasitic Diseases | Real: Diseases of the Genitourinary System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Other Non-communicable Diseases | Real: Diseases of the circulatory system 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Certain infectious and Parasitic Diseases 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Other Non-communicable Diseases 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of the Digestive System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the circulatory system 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Certain infectious and Parasitic Diseases | Real: Other Non-communicable Diseases 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Congenital malformation | Real: Congenital malformation 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Hemorrhagic fever | Real: Hemorrhagic fever 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Digestive System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Birth asphyxia | Real: Diseases of Respiratory System 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Birth asphyxia 
+Predicción: Diseases of the circulatory system | Real: Other Non-communicable Diseases 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Other Defined Causes of Child Deaths | Real: Other Defined Causes of Child Deaths 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Diseases of Respiratory System | Real: Birth asphyxia 
+Predicción: Diseases of the Nervous System | Real: Diseases of the Nervous System 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Non-communicable Diseases | Real: Diseases of the Digestive System 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the circulatory system | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Injury, Poisoning and External Causes | Real: Other Infectious Diseases 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Birth asphyxia 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the Genitourinary System | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Other Cardiovascular Diseases | Real: Other Infectious Diseases 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Other Non-communicable Diseases | Real: Diseases of Respiratory System 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Other Defined Causes of Child Deaths | Real: Other Defined Causes of Child Deaths 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of Respiratory System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Certain infectious and Parasitic Diseases | Real: Diseases of Respiratory System 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Infectious Diseases | Real: Other Infectious Diseases 
+Predicción: Congenital malformation | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of the Digestive System | Real: Other Infectious Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Other Defined Causes of Child Deaths | Real: Other Infectious Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Other Defined Causes of Child Deaths | Real: Diseases of the Digestive System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of Respiratory System | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Congenital malformation | Real: Congenital malformation 
+Predicción: Diseases of Respiratory System | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Genitourinary System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Other Defined Causes of Child Deaths | Real: Other Defined Causes of Child Deaths 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Diseases of the circulatory system | Real: Other Non-communicable Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Endocrine, Nutritional and Metabolic Diseases | Real: Endocrine, Nutritional and Metabolic Diseases 
+Predicción: Diseases of Respiratory System | Real: Other Cardiovascular Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of Respiratory System | Real: Diseases of the circulatory system 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Hemorrhagic fever | Real: Hemorrhagic fever 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Other Defined Causes of Child Deaths | Real: Other Defined Causes of Child Deaths 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Other Cardiovascular Diseases 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: Congenital malformation | Real: Congenital malformation 
+Predicción: Other Defined Causes of Child Deaths | Real: Other Defined Causes of Child Deaths 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Congenital malformation 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of Respiratory System | Real: Certain infectious and Parasitic Diseases 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Other Non-communicable Diseases | Real: Neoplasms 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Other Non-communicable Diseases | Real: Other Non-communicable Diseases 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Diseases of the Genitourinary System | Real: Diseases of the Genitourinary System 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Neoplasms | Real: Neoplasms 
+Predicción: Other Cardiovascular Diseases | Real: Other Cardiovascular Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Injury, Poisoning and External Causes | Real: Injury, Poisoning and External Causes 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: External Causes of Morbidity and Mortality | Real: External Causes of Morbidity and Mortality 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Injury, Poisoning and External Causes | Real: Diseases of the Digestive System 
+Predicción: Diseases of Respiratory System | Real: Diseases of Respiratory System 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Diseases of Respiratory System | Real: External Causes of Morbidity and Mortality 
+Predicción: Diseases of the circulatory system | Real: Diseases of the circulatory system 
+Predicción: Birth asphyxia | Real: Birth asphyxia 
+Predicción: External Causes of Morbidity and Mortality | Real: Diseases of the circulatory system 
+Predicción: Certain infectious and Parasitic Diseases | Real: Certain infectious and Parasitic Diseases 
+Predicción: Pregnancy, childbirth and the puerperiu | Real: Pregnancy, childbirth and the puerperiu 
+Predicción: Diseases of the Digestive System | Real: Diseases of the Digestive System 

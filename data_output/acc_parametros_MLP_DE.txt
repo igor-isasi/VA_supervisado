@@ -81,3 +81,64 @@ El accuracy para  hls=(150, 150), act=tanh, lr=invscaling, lri=0.012000 es 0.353
 El accuracy para  hls=(150, 150), act=tanh, lr=adaptive, lri=0.000500 es 0.385157 
 El accuracy para  hls=(150, 150), act=tanh, lr=adaptive, lri=0.001000 es 0.369162 
 El accuracy para  hls=(150, 150), act=tanh, lr=adaptive, lri=0.008000 es 0.368522 
+El accuracy para  hls=(150, 150), act=tanh, lr=adaptive, lri=0.012000 es 0.362124 
+El accuracy para  hls=(150, 150), act=relu, lr=constant, lri=0.000500 es 0.376839 
+El accuracy para  hls=(150, 150), act=relu, lr=constant, lri=0.001000 es 0.364683 
+El accuracy para  hls=(150, 150), act=relu, lr=constant, lri=0.008000 es 0.335253 
+El accuracy para  hls=(150, 150), act=relu, lr=constant, lri=0.012000 es 0.369162 
+El accuracy para  hls=(150, 150), act=relu, lr=invscaling, lri=0.000500 es 0.381318 
+El accuracy para  hls=(150, 150), act=relu, lr=invscaling, lri=0.001000 es 0.387716 
+El accuracy para  hls=(150, 150), act=relu, lr=invscaling, lri=0.008000 es 0.333333 
+El accuracy para  hls=(150, 150), act=relu, lr=invscaling, lri=0.012000 es 0.346769 
+El accuracy para  hls=(150, 150), act=relu, lr=adaptive, lri=0.000500 es 0.379399 
+El accuracy para  hls=(150, 150), act=relu, lr=adaptive, lri=0.001000 es 0.383877 
+El accuracy para  hls=(150, 150), act=relu, lr=adaptive, lri=0.008000 es 0.342930 
+El accuracy para  hls=(150, 150), act=relu, lr=adaptive, lri=0.012000 es 0.330774 
+El accuracy para  hls=(100, 100, 100), act=identity, lr=constant, lri=0.000500 es 0.284069 
+El accuracy para  hls=(100, 100, 100), act=identity, lr=constant, lri=0.001000 es 0.266155 
+El accuracy para  hls=(100, 100, 100), act=identity, lr=constant, lri=0.008000 es 0.286628 
+El accuracy para  hls=(100, 100, 100), act=identity, lr=constant, lri=0.012000 es 0.293666 
+El accuracy para  hls=(100, 100, 100), act=identity, lr=invscaling, lri=0.000500 es 0.291747 
+El accuracy para  hls=(100, 100, 100), act=identity, lr=invscaling, lri=0.001000 es 0.296225 
+El accuracy para  hls=(100, 100, 100), act=identity, lr=invscaling, lri=0.008000 es 0.280230 
+El accuracy para  hls=(100, 100, 100), act=identity, lr=invscaling, lri=0.012000 es 0.296225 
+El accuracy para  hls=(100, 100, 100), act=identity, lr=adaptive, lri=0.000500 es 0.300064 
+El accuracy para  hls=(100, 100, 100), act=identity, lr=adaptive, lri=0.001000 es 0.294946 
+El accuracy para  hls=(100, 100, 100), act=identity, lr=adaptive, lri=0.008000 es 0.292386 
+El accuracy para  hls=(100, 100, 100), act=identity, lr=adaptive, lri=0.012000 es 0.202815 
+El accuracy para  hls=(100, 100, 100), act=logistic, lr=constant, lri=0.000500 es 0.332054 
+El accuracy para  hls=(100, 100, 100), act=logistic, lr=constant, lri=0.001000 es 0.348049 
+El accuracy para  hls=(100, 100, 100), act=logistic, lr=constant, lri=0.008000 es 0.377479 
+El accuracy para  hls=(100, 100, 100), act=logistic, lr=constant, lri=0.012000 es 0.376200 
+El accuracy para  hls=(100, 100, 100), act=logistic, lr=invscaling, lri=0.000500 es 0.348049 
+El accuracy para  hls=(100, 100, 100), act=logistic, lr=invscaling, lri=0.001000 es 0.348688 
+El accuracy para  hls=(100, 100, 100), act=logistic, lr=invscaling, lri=0.008000 es 0.381318 
+El accuracy para  hls=(100, 100, 100), act=logistic, lr=invscaling, lri=0.012000 es 0.373001 
+El accuracy para  hls=(100, 100, 100), act=logistic, lr=adaptive, lri=0.000500 es 0.330134 
+El accuracy para  hls=(100, 100, 100), act=logistic, lr=adaptive, lri=0.001000 es 0.373640 
+El accuracy para  hls=(100, 100, 100), act=logistic, lr=adaptive, lri=0.008000 es 0.375560 
+El accuracy para  hls=(100, 100, 100), act=logistic, lr=adaptive, lri=0.012000 es 0.388356 
+El accuracy para  hls=(100, 100, 100), act=tanh, lr=constant, lri=0.000500 es 0.382598 
+El accuracy para  hls=(100, 100, 100), act=tanh, lr=constant, lri=0.001000 es 0.390275 
+El accuracy para  hls=(100, 100, 100), act=tanh, lr=constant, lri=0.008000 es 0.356366 
+El accuracy para  hls=(100, 100, 100), act=tanh, lr=constant, lri=0.012000 es 0.340371 
+El accuracy para  hls=(100, 100, 100), act=tanh, lr=invscaling, lri=0.000500 es 0.391555 
+El accuracy para  hls=(100, 100, 100), act=tanh, lr=invscaling, lri=0.001000 es 0.380038 
+El accuracy para  hls=(100, 100, 100), act=tanh, lr=invscaling, lri=0.008000 es 0.372361 
+El accuracy para  hls=(100, 100, 100), act=tanh, lr=invscaling, lri=0.012000 es 0.362124 
+El accuracy para  hls=(100, 100, 100), act=tanh, lr=adaptive, lri=0.000500 es 0.392194 
+El accuracy para  hls=(100, 100, 100), act=tanh, lr=adaptive, lri=0.001000 es 0.367882 
+El accuracy para  hls=(100, 100, 100), act=tanh, lr=adaptive, lri=0.008000 es 0.365963 
+El accuracy para  hls=(100, 100, 100), act=tanh, lr=adaptive, lri=0.012000 es 0.356366 
+El accuracy para  hls=(100, 100, 100), act=relu, lr=constant, lri=0.000500 es 0.388356 
+El accuracy para  hls=(100, 100, 100), act=relu, lr=constant, lri=0.001000 es 0.383877 
+El accuracy para  hls=(100, 100, 100), act=relu, lr=constant, lri=0.008000 es 0.369162 
+El accuracy para  hls=(100, 100, 100), act=relu, lr=constant, lri=0.012000 es 0.360845 
+El accuracy para  hls=(100, 100, 100), act=relu, lr=invscaling, lri=0.000500 es 0.380678 
+El accuracy para  hls=(100, 100, 100), act=relu, lr=invscaling, lri=0.001000 es 0.372361 
+El accuracy para  hls=(100, 100, 100), act=relu, lr=invscaling, lri=0.008000 es 0.328215 
+El accuracy para  hls=(100, 100, 100), act=relu, lr=invscaling, lri=0.012000 es 0.371721 
+El accuracy para  hls=(100, 100, 100), act=relu, lr=adaptive, lri=0.000500 es 0.378759 
+El accuracy para  hls=(100, 100, 100), act=relu, lr=adaptive, lri=0.001000 es 0.363404 
+El accuracy para  hls=(100, 100, 100), act=relu, lr=adaptive, lri=0.008000 es 0.353807 
+El accuracy para  hls=(100, 100, 100), act=relu, lr=adaptive, lri=0.012000 es 0.362764 
